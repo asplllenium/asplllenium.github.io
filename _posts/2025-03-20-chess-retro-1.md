@@ -27,3 +27,5 @@ In [puzzle four](https://chesstempo.com/chess-problems/208556000), I calculated 
 In [puzzle five](https://chesstempo.com/chess-problems/106707), I saw Nxd5 but after Qd8 I couldn't see Rd1. I was stuck too much on Qxc4 or Rxc4 or e6.
 
 In [puzzle six](https://chesstempo.com/chess-problems/91100), I saw c4 but didn't see after Kc3 c3 there was Nd4, a nice defense, preventing c2. So after Kc3, I needed to play a6. 
+
+In my next chess study, I need to retro my past games and try to find common patterns.
