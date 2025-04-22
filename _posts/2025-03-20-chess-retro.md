@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chess Retro 1
+title: Chess Retro
 ---
 
 I usually do a lot of things. But unfortunately, I don't remember what happens. I, lazily, rely on my unconscious. This aspect about myself makes it really hard for me to contribute to the content of conversations, by the way. Not only that but also, I feel that I'm plateauing at skills which I'd like to get better at. The point of this retro is to take some time to reflect, study what I've done, and analyze my mistakes so I don't repeat them.
